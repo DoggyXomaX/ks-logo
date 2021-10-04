@@ -15,8 +15,8 @@ This logo is designed specifically for the Cafedral of Computer Systems.
 - [fxg2svg](https://github.com/alts/fxg2svg)
 - [Figma](https://figma.com/)
 # License
-These logos are distributed under the Attribution 4.0 International (CC BY 4.0) license
-[The short text of the license](https://creativecommons.org/licenses/by/4.0)
-[Full text of the license](https://creativecommons.org/licenses/by/4.0/legalcode)
+### These logos are distributed under the Attribution 4.0 International (CC BY 4.0) license<br />
+- [The short text of the license](https://creativecommons.org/licenses/by/4.0)
+- [Full text of the license](https://creativecommons.org/licenses/by/4.0/legalcode)
 # Copyright (Author)
 © DoggyXomaX 2021
