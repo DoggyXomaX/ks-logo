@@ -1,22 +1,22 @@
-# CS Logo
-This logo is designed specifically for the Cafedral of Computer Systems.
-# Image formats
-### These logos use 2 main formats:
-- **PNG** raster image with alpha channel
-- **SVG** vector image
-# Logo Versions
-- **KS_BACKGROUND** ([png](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_BACKGROUND.png?raw=true)/[svg](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_BACKGROUND.svg?raw=true)) — full version of the logo with a background
-- **KS_LOGO** ([png](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO.png?raw=true)/[svg](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO.svg?raw=true)) — colored logo without text
-- **KS_LOGO_TEXT** ([png](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_TEXT.png?raw=true)/[svg](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_TEXT.svg?raw=true)) — colored logo with text
-- **KS_LOGO_WHITE** ([png](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_WHITE.png?raw=true)/[svg](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_WHITE.svg?raw=true)) — monochrome white logo without text
-- **KS_LOGO_BLACK** ([png](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_BLACK.png?raw=true)/[svg](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_BLACK.svg?raw=true)) — monochrome black logo without text
-# Used software
+# Логотип Кафедры КС
+Этот логотип был специально разработан для применения на Кафедре Компьютерных Систем в КНИТУ-КАИ.
+# Форматы изображений
+### Данные логотипы содержат 2 версии:
+- **PNG** растровое изображение с альфа каналом
+- **SVG** векторное изображение
+# Версии логотипа
+- **KS_BACKGROUND** ([png](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_BACKGROUND.png?raw=true)/[svg](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_BACKGROUND.svg?raw=true)) — полная версия логотипа, включающая задний фон
+- **KS_LOGO** ([png](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO.png?raw=true)/[svg](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO.svg?raw=true)) — цветной логотип без текста
+- **KS_LOGO_TEXT** ([png](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_TEXT.png?raw=true)/[svg](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_TEXT.svg?raw=true)) — цветной логотип с текстом
+- **KS_LOGO_WHITE** ([png](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_WHITE.png?raw=true)/[svg](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_WHITE.svg?raw=true)) — Монохромный белый логотип без текста
+- **KS_LOGO_BLACK** ([png](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_BLACK.png?raw=true)/[svg](https://github.com/DoggyXomaX/ks-logo/blob/main/images/KS_LOGO_BLACK.svg?raw=true)) — Монохромный черный логотип без текста
+# Использованное ПО
 - [Adobe Flash CS6 (Adobe Animate)](https://www.adobe.com/ru/products/animate.html)
 - [fxg2svg](https://github.com/alts/fxg2svg)
 - [Figma](https://figma.com/)
-# License
-### These logos are distributed under the Attribution 4.0 International (CC BY 4.0) license<br />
-- [The short text of the license](https://creativecommons.org/licenses/by/4.0)
-- [Full text of the license](https://creativecommons.org/licenses/by/4.0/legalcode)
-# Copyright (Author)
+# Лицензия
+### Данный логотип и его версии распространяются под лицензией "the Attribution 4.0 International (CC BY 4.0)"<br />
+- [Краткий текст лицензии](https://creativecommons.org/licenses/by/4.0/deed.ru)
+- [Полный текст лицензии](https://creativecommons.org/licenses/by/4.0/legalcode.ru)
+# Автор
 © DoggyXomaX 2021
